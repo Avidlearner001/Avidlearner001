@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avidlearner
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning doing constructive stuff
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on Solana
 - 📫 How to reach me https://twitter.com/CAvidness
